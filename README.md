@@ -62,7 +62,7 @@ Coding with Python was easy and quick to grasp all the results for a large and n
 
 * As python script can find unique candidates names and county names we can use it for a much larger dataset by adding more counties and cadidates.
 
-* Also, we can add more If statements and compare the data in a different way.
+* Also, we can add more If statements and compare the data in a different way."for example, we can find which county voted for which candidate" or "which candidate performed poor in which county".
 
 * Moreover we can add a "datetime" dependency that can calculate the votes in real time.
 
